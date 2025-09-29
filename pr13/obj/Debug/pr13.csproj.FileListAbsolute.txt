@@ -1,0 +1,8 @@
+D:\Users\1213-7\Documents\2-ИСП\ОАиП\Быков\pr13\obj\Debug\pr13.csproj.AssemblyReference.cache
+D:\Users\1213-7\Documents\2-ИСП\ОАиП\Быков\pr13\obj\Debug\pr13.csproj.CoreCompileInputs.cache
+D:\Users\1213-7\Documents\2-ИСП\ОАиП\Быков\pr13\bin\Debug\pr13.exe.config
+D:\Users\1213-7\Documents\2-ИСП\ОАиП\Быков\pr13\bin\Debug\pr13.exe
+D:\Users\1213-7\Documents\2-ИСП\ОАиП\Быков\pr13\bin\Debug\pr13.pdb
+D:\Users\1213-7\Documents\2-ИСП\ОАиП\Быков\pr13\obj\Debug\pr13.exe
+D:\Users\1213-7\Documents\2-ИСП\ОАиП\Быков\pr13\obj\Debug\pr13.pdb
+D:\Users\1213-7\Documents\2-ИСП\ОАиП\Быков\pr13\obj\Debug\pr13.exe.config
